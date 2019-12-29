@@ -1,4 +1,4 @@
-# 🍪 Biskit Icon Kit
+# 🎉 Biskit Icon Kit
 
 The Biskit Icon Kit is a living, breathing document that contains all of our icon assets. This document evolves and changes as we collaborate with partners and service teams. All of the assets that live in the Icon Kit can also be found on our Biskit Documentation website.
 
