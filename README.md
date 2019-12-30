@@ -18,4 +18,4 @@ Contains release notes on current and previous versions of the Biskit Design Kit
 * Open the Icon Kit file in Abstract.
 * Choose 'Use as library'
 * Use the icons to build out your design
-* Updates to the Icon Kit will be posted in our change log, so check back frequently for changes!
+* Updates to the Icon Kit will be posted in our [`change log`](https://ruud.koek.link/biskit/docs/#/whats-new), so check back frequently for changes!
